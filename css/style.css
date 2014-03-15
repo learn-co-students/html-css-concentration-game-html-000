@@ -1,0 +1,54 @@
+body {
+	background:maroon;
+	margin:45px 20px 20px;
+}
+
+.wrapper {
+	width:600px;
+	margin:0 auto;
+	padding:0;
+}
+
+a.card {
+	display:block;
+	float:left;
+	width:109px;
+	height:171px;
+	margin:2px;
+	padding:0;
+	background:#333;
+	border-radius:4px;
+	background: url('../images/cards.png') no-repeat 0 0;
+}
+
+a.c1:hover { background-position: 0 -171px; }
+
+a.c2:hover { background-position: -109px 0; }
+
+a.c3:hover { background-position: -436px -513px; }
+
+a.c4:hover { background-position: 0 -513px; }
+
+a.c5:hover { background-position: -327px -171px; }
+
+a.c6:hover { background-position: -218px -171px; }
+
+a.c7:hover { background-position: -218px -342px; }
+
+a.c8:hover { background-position: -218px -513px; }
+
+a.c9:hover { background-position: -218px -684px; }
+
+a.c10:hover { background-position: -327px -171px; }
+
+a.c11:hover { background-position: -327px -342px; }
+
+a.c12:hover { background-position: -327px -513px; }
+
+a.c13:hover { background-position: -327px -684px; }
+
+a.c14:hover { background-position: -218px -513px; }
+
+a.c15:hover { background-position: 0 -171px; }
+
+
