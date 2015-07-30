@@ -1,9 +1,4 @@
----
-languages: html, css
-tags: sprites, rollovers, images, background-position
-resources: 0
-type: lab
----
+
 
 # Concentration Card Game
 
