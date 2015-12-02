@@ -12,3 +12,5 @@ This challenge asks that you work in teams to create a memory card game where in
 3. Write the necessary CSS in the css/style.css file to select the cards .c1 though .c15 in the index.html page creating rollover images of the cards by repositioning the cards.png file found in the images folder. You should display the same card twice on the board like the [concentration game](http://en.wikipedia.org/wiki/Concentration_(game)) where users try to remember where cards are and make matches. The user should see the back of the card until they hover. You can place the cards in any order you wish.
 
 Live example site of finished lab located [here](http://learn-co-curriculum.github.io/fe-concentration-game/).
+
+<a href='https://learn.co/lessons/fe-concentration-game' data-visibility='hidden'>View this lesson on Learn.co</a>
