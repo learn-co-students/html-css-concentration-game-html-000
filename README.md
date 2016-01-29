@@ -13,4 +13,4 @@ This challenge asks that you work in teams to create a memory card game where in
 
 Live example site of finished lab located [here](http://learn-co-curriculum.github.io/fe-concentration-game/).
 
-<a href='https://learn.co/lessons/fe-concentration-game' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-concentration-game' title='Concentration Card Game'>Concentration Card Game</a> on Learn.co and start learning to code for free.</p>
