@@ -6,6 +6,8 @@ tags:
   - rollovers
   - images
   - background-position
-resources: 0
 type:
   - lab
+tests:
+ - green_onion
+resources: 0
