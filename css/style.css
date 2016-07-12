@@ -19,9 +19,52 @@ a.card {
 	background:#333;
 	border-radius:4px;
 	/* link to the sprite image here */
-	background: url() no-repeat;
+	background: url(../images/cards.png) no-repeat;
 }
 
 /* write rollover selectors here for c1 - c15 */
-
-
+a.c1:hover{
+	background-position: -109px 0; /* Joker */
+}
+a.c2:hover{
+	background-position: -218px 0; /* Skull */
+}
+a.c3:hover{
+	background-position: -327px 0; /* heart eyes */
+}
+a.c4:hover{
+	background-position: -436px 0; /* Pig swords */
+}
+a.c5:hover{
+	background-position: -545px 0; /* singing eyes */
+}
+a.c6:hover{
+	background-position: -218px 0; /* Skull */
+}
+a.c7:hover{
+	background-position: -654px 0; /* tentacle mouth */
+}
+a.c8:hover{
+	background-position: -327px 0; /* heart eyes */
+}
+a.c9:hover{
+	background-position: -763px 0; /* girl knife */
+}
+a.c10:hover{
+	background-position: -545px 0; /* signing eyes */
+}
+a.c11:hover{
+	background-position: -109px 0;
+}
+a.c12:hover{
+	background-position: -436px 0; /* pig swords */
+}
+a.c13:hover{
+	background-position: -654px 0; /* tentacle mouth */
+}
+a.c14:hover{
+	background-position: -109px 0; /* Joker */
+}
+a.c15:hover{
+	background-position: -763px 0; /* girl knife */
+}
