@@ -19,9 +19,54 @@ a.card {
 	background:#333;
 	border-radius:4px;
 	/* link to the sprite image here */
-	background: url() no-repeat;
+	background: url(../images/cards.png) no-repeat;
 }
 
 /* write rollover selectors here for c1 - c15 */
 
 
+a.c1:hover {
+	background-position: -109px 0;
+}
+a.c2:hover {
+	background-position: -763px -513px;
+}
+a.c3:hover {
+	background-position: -872px -171px;
+}
+a.c4:hover {
+	background-position: -872px -513px;
+}
+a.c5:hover {
+	background-position: -545px -171px;
+}
+a.c6:hover {
+	background-position: 0 -513px;
+}
+a.c7:hover {
+	background-position: -109px -513px;
+}
+a.c8:hover {
+	background-position: -327px -171px;
+}
+a.c9:hover {
+	background-position: -872px -171px;
+}
+a.c10:hover {
+	background-position: -872px -684px;
+}
+a.c11:hover {
+	background-position: -872px -513px;
+}
+a.c12:hover {
+	background-position: -545px -513px;
+}
+a.c13:hover {
+	background-position: -109px -513px;
+}
+a.c14:hover {
+	background-position: 0 -171px;
+}
+a.c15:hover {
+	background-position: -763px -513px;
+}
