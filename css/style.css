@@ -19,9 +19,45 @@ a.card {
 	background:#333;
 	border-radius:4px;
 	/* link to the sprite image here */
-	background: url() no-repeat;
+	background: url(images/cards.png) no-repeat 0 0;
 }
 
 /* write rollover selectors here for c1 - c15 */
 
+/*
+x-axis values:
+0 -109px -218px -327px -436px -545px -654px -763px -872px -981px -1090px
 
+y-axis values:
+0 -171px -342px -513px -684px
+*/
+
+a.c1:hover { background-position: -327px -684px; } /* pair 1 */
+
+a.c2:hover { background-position: -872px -171px; } /* pair 2 */
+
+a.c3:hover { background-position: -109px -513px; } /* pair 3 */
+
+a.c4:hover { background-position: 0 -342px; } /* pair 4 */
+
+a.c5:hover { background-position: -218px 0; } /* pair 5 */
+
+a.c6:hover { background-position: -109px -513px; } /* pair 3 */
+
+a.c7:hover { background-position: -436px -342px; } /* pair 6 */
+
+a.c8:hover { background-position: -654px -171px; } /* pair 7 */
+
+a.c9:hover { background-position: -654px -171px; } /* pair 7 */
+
+a.c10:hover { background-position: -327px -684px; } /* pair 1 */
+
+a.c11:hover { background-position: -218px 0; } /* pair 5 */
+
+a.c12:hover { background-position: -436px -342px; } /* pair 6 */
+
+a.c13:hover { background-position: 0 -342px; } /* pair 4 */
+
+a.c14:hover { background-position: -872px -171px; } /* pair 2 */
+
+a.c15:hover { background-position: -1090px -684px; } /* odd card */
