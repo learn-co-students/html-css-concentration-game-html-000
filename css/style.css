@@ -18,10 +18,18 @@ a.card {
 	padding:0;
 	background:#333;
 	border-radius:4px;
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
 	/* link to the sprite image here */
-	background: url() no-repeat;
+	background: url(/Users/greg/.atom/code/labs/html-css-concentration-game-html-000/images/cards.png) no-repeat;
 }
 
 /* write rollover selectors here for c1 - c15 */
+a.card c1 { background-position: 0px -171px; }
+a.card c1:hover { background-position: 0px -171px; }
+a.card c1:active { background-position: -218px -171px; }
 
-
+a.card c2 { background-position: 0 171px; }
+a.card c2:hover { background-position: 109px 171px; }
+a.card c2:active { background-position: 218px 171px; }
