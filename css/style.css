@@ -19,9 +19,52 @@ a.card {
 	background:#333;
 	border-radius:4px;
 	/* link to the sprite image here */
-	background: url() no-repeat;
+	background: url(../images/cards.png) no-repeat;
 }
 
+.c1 { background-position: 0 0; }
+.c1:hover { background-position: 0 -171px; }
+
+.c2 { background-position: -109px 0; }
+.c2:hover { background-position: -109px 0; }
+
+.c3 { background-position: -436px -513px; }
+.c3:hover { background-position: -436px -513px; }
+
+.c4 { background-position: 0 -513px; }
+.c4:hover { background-position: 0 -513px; }
+
+.c5 { background-position: -327px -171px; }
+.c5:hover { background-position: -327px -171px; }
+
+.c6 { background-position: -218px -171px; }
+.c6:hover { background-position: -218px -171px; }
+
+.c7 { background-position: -218px -342px; }
+.c7:hover { background-position: -218px -342px; }
+
+.c8 { background-position: -218px -513px; }
+.c8:hover { background-position: -218px -513px; }
+
+.c9 { background-position: -218px -684px; }
+.c9:hover { background-position: -218px -684px; }
+
+.c10 { background-position: -327px -171px; }
+.c10:hover { background-position: -327px -171px; }
+
+.c11 { background-position: -327px -342px; }
+.c11:hover { background-position: -327px -342px; }
+
+.c12 { background-position: -327px -513px; }
+.c12:hover { background-position: -327px -513px; }
+
+.c13 { background-position: -327px -684px; }
+.c13:hover { background-position: -327px -684px; }
+
+.c14 { background-position: -218px -513px; }
+.c14:hover { background-position: -218px -513px; }
+
+.c15 { background-position: -0px -171px; }
+.c15:hover { background-position: -0px -171px; }
+
 /* write rollover selectors here for c1 - c15 */
-
-
