@@ -19,9 +19,22 @@ a.card {
 	background:#333;
 	border-radius:4px;
 	/* link to the sprite image here */
-	background: url() no-repeat;
+	background: url(../images/cards.png) no-repeat;
 }
 
 /* write rollover selectors here for c1 - c15 */
-
-
+a.card.c1:hover { background-position: 0 -171px; }
+a.card.c2:hover { background-position: -109px 0; }
+a.card.c3:hover { background-position: -436px -513px; }
+a.card.c4:hover { background-position: 0 -513px; }
+a.card.c5:hover { background-position: -327px -171px; }
+a.card.c6:hover { background-position: 0 -513px; }
+a.card.c7:hover { background-position: -436px -513px; }
+a.card.c8:hover { background-position: -218px -513px; }
+a.card.c9:hover { background-position: -218px -684px; }
+a.card.c10:hover { background-position: -218px -513px; }
+a.card.c11:hover { background-position: -218px -684px; }
+a.card.c12:hover { background-position: -327px -513px; }
+a.card.c13:hover { background-position: -109px 0; }
+a.card.c14:hover { background-position: -327px -513px; }
+a.card.c15:hover { background-position: 0 -171px; }
